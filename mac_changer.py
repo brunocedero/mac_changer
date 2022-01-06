@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 import subprocess
-import argparse
+
 
 interface = input("interface >")
 new_mac = input("nuevo MAC >")
